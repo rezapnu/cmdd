@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "cms\\": "src/"
+            "cms\\": "rezapnu/cms/src/"
 
         }
     }
